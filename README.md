@@ -8,7 +8,7 @@ Despite the playful name, the goal is serious:
 No backend.  
 No database.  
 No uploads.  
-Everything runs **locally in your browser**.
+Everything runs **locally in your browser**...
 
 ---
 
